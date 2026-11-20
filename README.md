@@ -3,7 +3,7 @@
 ## Dataset Using
 
 ### Generate ReBlurSR-Train and ReBlurSR-Test
-1. Download the dataset files from the [Google Drive](https://drive.google.com/file/d/1mkjSd95VxWr63GBbfpmy9ImlweChorf0/view?usp=sharing)
+1. Download the dataset files from the [Hugging Face]([https://drive.google.com/file/d/1mkjSd95VxWr63GBbfpmy9ImlweChorf0/view?usp=sharing](https://huggingface.co/datasets/Enlami/ReBlurSR/blob/main/ReBlurSR.zip))
 2. Unzip the files to the corresponding folders. The structure tree of the unzipped folders is as follows:
     ```
     .
